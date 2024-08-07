@@ -1,4 +1,4 @@
-# Easy SQL Server Table Editor Tool for Windows #
+# SQL Server Table Editor Tool for Windows #
 
 ## Youtube Guide : How to use SQL Server Table Editor / Manager Tool ##
 [![SQL Table Data Editor](https://github.com/user-attachments/assets/8ed45e61-b59c-4c4d-87ec-7fb334cf3e9e)](https://youtu.be/aazDK1a4Nuk)
