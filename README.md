@@ -45,5 +45,5 @@
   ![ADODB Setting](https://github.com/user-attachments/assets/c5cf2074-77d0-40d0-aab8-42d6619e88d2)
 
 
-  ### $${\color{yellow}Powered \space by: Deepak  \space Lohia \space Automations}$$ ###
+### $${\color{yellow}Powered \space by: Deepak  \space Lohia \space Automations}$$ ###
 
